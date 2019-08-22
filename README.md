@@ -1,5 +1,5 @@
 # Newspaper
-Repositório sobre script desenvolvido pela monitoração.
+
 Elaboramos um script para identificar os clientes que por algum motivo não receberam o Newspaper, a principio identificamos que a maior parte dos clientes tem e-mail do "Gmail", mas a lógica aplicada identifica qualquer provedor de e-mail. O script coleta as informações no servidor 200.196.219.192 "correio.ae.com.br".
 
 
